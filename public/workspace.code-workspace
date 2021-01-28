@@ -1,0 +1,25 @@
+{
+	"folders": [
+		{
+			"path": "../db"
+		},
+		{
+			"path": "../models"
+		},
+		{
+			"path": "../node_modules"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../routes"
+		},
+		{
+			"path": "../views"
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
